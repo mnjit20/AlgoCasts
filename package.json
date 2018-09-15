@@ -1,0 +1,8 @@
+{
+  "name": "AlgoCasts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mnjit20/AlgoCasts.git",
+  "author": "mnjit <mnjit.vrma@gmail.com>",
+  "license": "MIT"
+}
